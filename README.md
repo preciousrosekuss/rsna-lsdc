@@ -11,7 +11,7 @@ This project, a collaboration between RSNA and ASNR, focuses on leveraging artif
 ## Data
 The dataset for this project is meticulously curated, sourced from eight global sites and spanning five continents. It includes severity scores for each condition at various disc levels. This comprehensive dataset promises to standardize classification methods and facilitate the development of automated diagnostic tools for degenerative lumbar spine conditions.
 
-https://www.kaggle.com/competitions/71549/images/header
+![image](https://github.com/preciousrosekuss/rsna-lsdc/assets/102430666/166243f6-787c-4591-827b-641b357b2745)
 
 ## Citation
 Tyler Richards, Jason Talbott, Robyn Ball, Errol Colak, Adam Flanders, Felipe Kitamura, John Mongan, Luciano Prevedello, Maryam Vazirabad.. (2024). RSNA 2024 Lumbar Spine Degenerative Classification. Kaggle. https://kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification
