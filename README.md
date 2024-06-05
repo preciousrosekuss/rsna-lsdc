@@ -8,10 +8,11 @@ Low back pain is a prevalent health issue globally, impacting millions each year
 ## Description
 This project, a collaboration between RSNA and ASNR, focuses on leveraging artificial intelligence to enhance the detection and classification of degenerative spine conditions using lumbar spine MR images. The goal is to develop models that can accurately identify five specific conditions across different intervertebral disc levels.
 
+![image](https://github.com/preciousrosekuss/rsna-lsdc/assets/102430666/166243f6-787c-4591-827b-641b357b2745)
+
 ## Data
 The dataset for this project is meticulously curated, sourced from eight global sites and spanning five continents. It includes severity scores for each condition at various disc levels. This comprehensive dataset promises to standardize classification methods and facilitate the development of automated diagnostic tools for degenerative lumbar spine conditions.
 
-![image](https://github.com/preciousrosekuss/rsna-lsdc/assets/102430666/166243f6-787c-4591-827b-641b357b2745)
 
 ## Citation
 Tyler Richards, Jason Talbott, Robyn Ball, Errol Colak, Adam Flanders, Felipe Kitamura, John Mongan, Luciano Prevedello, Maryam Vazirabad.. (2024). RSNA 2024 Lumbar Spine Degenerative Classification. Kaggle. https://kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification
