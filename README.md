@@ -1,6 +1,6 @@
 # RSNA - Lumbar Spine Degenerative Classification
 
-This GitHub project aims to develop models for detecting and classifying degenerative spine conditions using lumbar spine MR images, simulating the diagnostic performance of radiologists.
+This GitHub project aims to develop models for detecting and classifying degenerative spine conditions using lumbar spine MRI images, simulating the diagnostic performance of radiologists.
 
 ## Overview
 Low back pain is a prevalent health issue globally, impacting millions each year. Often, it is symptomatic of degenerative spine conditions like spondylosis, characterized by disc degeneration and spinal canal narrowing. Magnetic Resonance Imaging (MRI) provides critical insights into these conditions, aiding in accurate diagnosis and treatment planning.
