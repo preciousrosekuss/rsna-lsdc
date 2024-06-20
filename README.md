@@ -5,7 +5,7 @@ This GitHub project aims to develop models for detecting and classifying degener
 Low back pain is a prevalent health issue globally, impacting millions each year. Often, it is symptomatic of degenerative spine conditions like spondylosis, characterized by disc degeneration and spinal canal narrowing. Magnetic Resonance Imaging (MRI) provides critical insights into these conditions, aiding in accurate diagnosis and treatment planning.
 
 ## Description
-This project, a collaboration between RSNA and ASNR, focuses on leveraging artificial intelligence to enhance the detection and classification of degenerative spine conditions using lumbar spine MR images. The goal is to develop models that can accurately identify five specific conditions across different intervertebral disc levels.
+This project, a collaboration between Radiological Society of North America (RSNA) and American Society of Neuroradiology (ASNR), focuses on leveraging artificial intelligence to enhance the detection and classification of degenerative spine conditions using lumbar spine MR images. The goal is to develop models that can accurately identify five specific conditions across different intervertebral disc levels.
 
 ![image](https://github.com/preciousrosekuss/rsna-lsdc/assets/102430666/166243f6-787c-4591-827b-641b357b2745)
 
