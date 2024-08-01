@@ -1,4 +1,4 @@
-# RSNA - Lumbar Spine Degenerative Classification
+# Radiological Society of North America (RSNA) - Lumbar Spine Degenerative Classification (LSDC)
 This GitHub project aims to develop models for detecting and classifying degenerative spine conditions using lumbar spine MRI images, simulating the diagnostic performance of radiologists.
 
 ## Overview
